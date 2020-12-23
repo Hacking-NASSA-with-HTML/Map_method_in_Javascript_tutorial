@@ -1,7 +1,4 @@
-#### npm init Initialize Node in the current folder ``` npm init ```
-
-
-#### node index.js Start Node to run ``` node index.js ```
+#### Start Node to run ``` node index.js ```
 
 
 #### Interesting javascript tutorial over the materials of 
